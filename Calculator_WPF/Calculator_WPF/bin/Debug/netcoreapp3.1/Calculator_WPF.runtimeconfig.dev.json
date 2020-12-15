@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Guntis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Guntis\\.nuget\\packages"
+    ]
+  }
+}
