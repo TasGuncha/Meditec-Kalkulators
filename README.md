@@ -1,0 +1,3 @@
+# Meditec-Kalkulators
+
+Meditec uzdevums
